@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">684335167351-7a6n46m6bpnql4hevaoutvg1tk7m56li.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://friendlychat-c1e2b.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">684335167351</string>
+    <string name="google_api_key" translatable="false">AIzaSyBb8iL67JfVZDxVic2UDAhOGAjUdCISTs8</string>
+    <string name="google_app_id" translatable="false">1:684335167351:android:b5d75907de594a2d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBb8iL67JfVZDxVic2UDAhOGAjUdCISTs8</string>
+    <string name="google_storage_bucket" translatable="false">friendlychat-c1e2b.appspot.com</string>
+    <string name="project_id" translatable="false">friendlychat-c1e2b</string>
+</resources>
