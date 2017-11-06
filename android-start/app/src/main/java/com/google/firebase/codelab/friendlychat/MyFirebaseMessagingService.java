@@ -17,10 +17,13 @@ package com.google.firebase.codelab.friendlychat;
 
 import android.util.Log;
 
+import com.google.firebase.iid.FirebaseInstanceId;
+import com.google.firebase.iid.FirebaseInstanceIdService;
+import com.google.firebase.messaging.FirebaseMessaging;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 
-public class MyFirebaseMessagingService {
+public class MyFirebaseMessagingService extends FirebaseInstanceIdService{
 
     private static final String TAG = "MyFMService";
 

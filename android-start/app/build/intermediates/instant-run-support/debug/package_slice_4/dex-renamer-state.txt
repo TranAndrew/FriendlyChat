@@ -1,4 +1,4 @@
-#Mon Nov 06 10:13:13 CST 2017
+#Mon Nov 06 17:05:42 CST 2017
 base.0=C\:\\Users\\AndrewTran\\Documents\\GitHub\\friendlychat-android\\android-start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
 renamed.0=classes.dex
 file.0=C\:\\Users\\AndrewTran\\Documents\\GitHub\\friendlychat-android\\android-start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4\\classes.dex

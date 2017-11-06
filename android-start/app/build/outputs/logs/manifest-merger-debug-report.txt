@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-48:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\50b142697d871eb7481e9842b603130b\AndroidManifest.xml:17:1-31:12
 MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\circleimageview-1.3.0.aar\f61921d2996eda976ed4bc4ae7000a09\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\5a6192786535027ebdc7c6ba276d3e95\AndroidManifest.xml:17:1-31:12
@@ -70,25 +70,25 @@ MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\AndrewTra
 MERGED from [com.google.firebase:firebase-dynamic-links-license:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-11.4.2.aar\69f0df362cee9e6bf6a366cb4181acf4\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-ads-lite-license:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.4.2.aar\b90cc9a9bd3291cf32e778fc87ae4089\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-gass-license:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.4.2.aar\2547cbd6da730baaf69f11b8a97a7ede\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-48:12
 	package
 		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:3:5-55
 		INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-48:12
 		INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:1-48:12
 		INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:5:5-21:19
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:7:5-46:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\50b142697d871eb7481e9842b603130b\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\50b142697d871eb7481e9842b603130b\AndroidManifest.xml:25:5-29:19
 MERGED from [de.hdodenhof:circleimageview:1.3.0] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\circleimageview-1.3.0.aar\f61921d2996eda976ed4bc4ae7000a09\AndroidManifest.xml:9:5-20
@@ -204,33 +204,79 @@ MERGED from [com.google.android.gms:play-services-ads-lite-license:11.4.2] C:\Us
 MERGED from [com.google.android.gms:play-services-gass-license:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.4.2.aar\2547cbd6da730baaf69f11b8a97a7ede\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-gass-license:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.4.2.aar\2547cbd6da730baaf69f11b8a97a7ede\AndroidManifest.xml:5:5-20
 	android:supportsRtl
-		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:10:9-41
 	android:icon
-		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:12:9-40
 activity#com.google.firebase.codelab.friendlychat.MainActivity
-ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:11:9-17:20
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:13:9-28:20
 	android:name
-		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:11:19-87
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:13:19-87
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:12:13-16:29
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:14:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:13:17-69
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:15:17-68
 	android:name
-		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:13:25-66
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:15:17-77
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:16:17-76
 	android:name
-		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:15:27-74
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:16:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:18:13-27:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:20:17-75
+	android:name
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:20:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:21:27-75
+data
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:22:17-26:23
+	android:host
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:23:21-68
+	android:scheme
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:24:21-42
+	android:pathPrefix
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:25:21-50
 activity#com.google.firebase.codelab.friendlychat.SignInActivity
-ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:19:9-52
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:30:9-52
 	android:name
-		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:19:19-49
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:30:19-49
+service#com.google.firebase.codelab.friendlychat.MyFirebaseMessagingService
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:31:9-37:19
+	android:exported
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:32:13-55
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:34:13-36:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:35:17-78
+	android:name
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:35:25-75
+service#com.google.firebase.codelab.friendlychat.MyFirebaseInstanceIdService
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:39:9-45:19
+	android:exported
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:40:13-56
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:42:13-44:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:43:17-80
+	android:name
+		ADDED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml:43:25-77
 uses-sdk
 INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\AndrewTran\Documents\GitHub\friendlychat-android\android-start\app\src\main\AndroidManifest.xml
@@ -519,24 +565,12 @@ action#com.google.android.gms.appinvite.ACTION_PREVIEW
 ADDED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\96d5b19f26281a642a51759a330bf3a2\AndroidManifest.xml:22:17-89
 	android:name
 		ADDED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\96d5b19f26281a642a51759a330bf3a2\AndroidManifest.xml:22:25-87
-category#android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\96d5b19f26281a642a51759a330bf3a2\AndroidManifest.xml:23:17-75
-	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.4.2.aar\96d5b19f26281a642a51759a330bf3a2\AndroidManifest.xml:23:27-73
 service#com.google.firebase.messaging.FirebaseMessagingService
 ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\a57c5faf3965209968d49583f0706022\AndroidManifest.xml:23:9-27:19
 	android:exported
 		ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\a57c5faf3965209968d49583f0706022\AndroidManifest.xml:23:88-111
 	android:name
 		ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\a57c5faf3965209968d49583f0706022\AndroidManifest.xml:23:18-87
-intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\a57c5faf3965209968d49583f0706022\AndroidManifest.xml:24:13-26:29
-	android:priority
-		ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\a57c5faf3965209968d49583f0706022\AndroidManifest.xml:24:28-51
-action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\a57c5faf3965209968d49583f0706022\AndroidManifest.xml:25:17-77
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.4.2.aar\a57c5faf3965209968d49583f0706022\AndroidManifest.xml:25:25-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\2a419dade04c7b73b0719ca6b426b0e6\AndroidManifest.xml:19:9-172
 	android:exported
@@ -605,14 +639,6 @@ ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\AndrewTran\.gradle
 		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\f231308d3c30d0272634c29336fb7ac9\AndroidManifest.xml:43:83-106
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\f231308d3c30d0272634c29336fb7ac9\AndroidManifest.xml:43:18-82
-intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\f231308d3c30d0272634c29336fb7ac9\AndroidManifest.xml:44:13-46:29
-	android:priority
-		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\f231308d3c30d0272634c29336fb7ac9\AndroidManifest.xml:44:28-51
-action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\f231308d3c30d0272634c29336fb7ac9\AndroidManifest.xml:45:17-79
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.4.2.aar\f231308d3c30d0272634c29336fb7ac9\AndroidManifest.xml:45:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:11.4.2] C:\Users\AndrewTran\.gradle\caches\transforms-1\files-1.1\firebase-common-11.4.2.aar\f53e3c909ca6c4257f2321dd0b5ad859\AndroidManifest.xml:6:9-194
 	android:authorities
